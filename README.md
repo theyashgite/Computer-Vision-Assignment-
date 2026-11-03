@@ -1,4 +1,4 @@
-roject Overview
+Project Overview
 This project demonstrates the practical application of fundamental Computer Vision techniques. Computer Vision is a field of Artificial Intelligence that enables computers to interpret and understand visual information such as images and videos.
 
 The project explores how images can be enhanced, how important visual features can be identified and matched, how objects and faces can be detected, and how movement can be analysed in video.
